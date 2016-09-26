@@ -19,6 +19,7 @@ For the full copyright and license information, please view the LICENSE
 file that was distributed with this source code.
 EOF;
 
+/**
 $founder = Symfony\CS\Finder::create()
  * W EXP-2 takie zmiany....
  */
