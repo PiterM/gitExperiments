@@ -13,7 +13,7 @@ For the full copyright and license information, please view the LICENSE
 file that was distributed with this source code.
 EOF;
 
-$finder = Symfony\CS\Finder::create()
+$founder = Symfony\CS\Finder::create()
     ->files()
     ->name('*.php')
     ->exclude('Fixtures')
@@ -60,3 +60,7 @@ return Symfony\CS\Config::create()
     ))
     ->finder($finder)
 ;
+
+/*
+ * Takie zmiany na EXP-2 bym zaproponował
+ */
