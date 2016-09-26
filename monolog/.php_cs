@@ -6,6 +6,8 @@
 // jedziemy do przodu z EXP-2!!
 // zmiany zmiany zmiany
 // i jeszcze trochę po revertach
+// odjeżdżamy z EXP-2 do przodu
+// i jeszcze dalej....
 
 // EXP-1 też ucieka
 // i jeszcze dalej!!
