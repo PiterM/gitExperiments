@@ -2,6 +2,7 @@
 
 // Zmiany na branczu EXP-2
 // i jeszcze ich więcej
+// jedziemy do przodu z EXP-2!!
 
 $header = <<<EOF
 This file is part of the Monolog package.
@@ -46,6 +47,16 @@ return Symfony\CS\Config::create()
         'ternary_operator_spaces' => true,
         'trailing_comma_in_multiline_array' => true,
         'whitespacy_lines' => true,
+        'binary_operator_spaces' => true,
+        'blank_line_before_return' => true,
+        'header_comment' => array('header' => $header),
+        'include' => true,
+        'long_array_syntax' => true,
+        'method_separation' => true,
+        'no_blank_lines_after_class_opening' => true,
+        'no_blank_lines_after_phpdoc' => true,
+        'no_blank_lines_between_uses' => true,
+        'no_unused_imports' => true,        
     ))
     ->finder($finder)
 ;
