@@ -3,6 +3,7 @@
 // Zmiany na branczu EXP-1
 // i następne zmiany na tym branczu
 // i więcej i więcej i więcej...
+// trochę jeszcze przed mergem do DEVa
 
 $header = <<<EOF
 This file is part of the Monolog package.
@@ -69,6 +70,13 @@ return Symfony\CS\Config::create()
                     'phpdoc_scalar' => true,
                     'phpdoc_trim' => true,
                     'phpdoc_type_to_var' => true,
+                    'phpdoc_trim' => true,
+                    'phpdoc_type_to_var' => true,
+                    'psr0' => true,
+                    'single_blank_line_before_namespace' => true,
+                    'spaces_cast' => true,
+                    'standardize_not_equals' => true,
+                    'ternary_operator_spaces' => true,                    
                 ))
                 ->finder($finder)
 ;
