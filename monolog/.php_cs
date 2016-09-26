@@ -1,6 +1,6 @@
 <?php
 
-// Zmiany na DEVIE
+// Zmiany na branczu EXP-1
 
 $header = <<<EOF
 This file is part of the Monolog package.
