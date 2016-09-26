@@ -4,8 +4,8 @@
 // i jeszcze ich więcej
 // i więcej i więcej i więcej...
 // jedziemy do przodu z EXP-2!!
-// trochę jeszcze przed mergem do DEVa
-// jedziemy dalej..
+// zmiany zmiany zmiany
+// i jeszcze trochę po revertach
 
 $header = <<<EOF
 This file is part of the Monolog package.
