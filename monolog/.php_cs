@@ -1,6 +1,7 @@
 <?php
 
 // Zmiany na DEVIE
+// i dalsze na nim zmiany
 
 $header = <<<EOF
 This file is part of the Monolog package.
@@ -43,12 +44,6 @@ return Symfony\CS\Config::create()
         'object_operator_without_whitespace' => true,
         'phpdoc_align' => true,
         'phpdoc_indent' => true,
-        'phpdoc_no_access' => true,
-        'phpdoc_no_package' => true,
-        'phpdoc_order' => true,
-        'phpdoc_scalar' => true,
-        'phpdoc_trim' => true,
-        'phpdoc_type_to_var' => true,
         'psr0' => true,
         'single_blank_line_before_namespace' => true,
         'spaces_cast' => true,
