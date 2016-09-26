@@ -3,8 +3,8 @@
 // Zmiany na branczu EXP-2
 // i jeszcze ich więcej
 // i więcej i więcej i więcej...
-// trochę jeszcze przed mergem do DEVa
-// jedziemy dalej..
+// zmiany zmiany zmiany
+// i jeszcze trochę po revertach
 // jedziemy do przodu z EXP-2!!
 // zmiany zmiany zmiany
 // i jeszcze trochę po revertach
