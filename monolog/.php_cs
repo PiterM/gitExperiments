@@ -1,5 +1,7 @@
 <?php
 
+// Zmiany na DEVIE
+
 $header = <<<EOF
 This file is part of the Monolog package.
 
