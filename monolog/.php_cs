@@ -6,6 +6,7 @@
 // jedziemy do przodu z EXP-2!!
 // trochę jeszcze przed mergem do DEVa
 // jedziemy dalej..
+// nic takiego
 
 $header = <<<EOF
 This file is part of the Monolog package.
@@ -17,6 +18,9 @@ file that was distributed with this source code.
 EOF;
 
 $founder = Symfony\CS\Finder::create()
+ * W EXP-2 takie zmiany....
+ */
+
     ->files()
     ->name('*.php')
     ->exclude('Fixtures')
@@ -49,18 +53,10 @@ return Symfony\CS\Config::create()
                     'phpdoc_trim' => true,
                     'phpdoc_type_to_var' => true,
                     'phpdoc_align' => true,
-        'phpdoc_type_to_var' => true,
-        'psr0' => true,
-        'single_blank_line_before_namespace' => true,
-        'spaces_cast' => true,
-        'standardize_not_equals' => true,
-        'ternary_operator_spaces' => true,
-        'trailing_comma_in_multiline_array' => true,
-        'whitespacy_lines' => true,
         'binary_operator_spaces' => true,
         'blank_line_before_return' => true,
-    ))
-    ->finder($finder)
+                ))
+                ->finder($finder)
 ;
 
 /*
