@@ -7,6 +7,7 @@
 // zmiany zmiany zmiany
 // i jeszcze trochę po revertach
 // odjeżdżamy z EXP-2 do przodu
+// i jeszcze dalej....
 
 $header = <<<EOF
 This file is part of the Monolog package.
