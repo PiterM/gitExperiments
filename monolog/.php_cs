@@ -8,6 +8,7 @@
 // i jeszcze trochę po revertach
 
 // EXP-1 też ucieka
+// i jeszcze dalej!!
 
 $header = <<<EOF
 This file is part of the Monolog package.
