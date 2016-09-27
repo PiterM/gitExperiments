@@ -2,6 +2,7 @@
 
 // Teraz EXP-3
 // i dalej EXP-3
+// więcej
 
 $header = <<<EOF
 This file is part of the Monolog package.
