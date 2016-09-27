@@ -1,16 +1,6 @@
 <?php
 
-// Zmiany na branczu EXP-2
-// i jeszcze ich więcej
-// i więcej i więcej i więcej...
-// jedziemy do przodu z EXP-2!!
-// zmiany zmiany zmiany
-// i jeszcze trochę po revertach
-// odjeżdżamy z EXP-2 do przodu
-// i jeszcze dalej....
-
-// EXP-1 też ucieka
-// i jeszcze dalej!!
+// EXP-1 nowe zmiany
 
 $header = <<<EOF
 This file is part of the Monolog package.
