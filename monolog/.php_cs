@@ -3,6 +3,7 @@
 // EXP-1 nowe zmiany
 // i nowe zmiany #2
 // kolejne zmiany #3
+// i dalej #4
 
 $header = <<<EOF
 This file is part of the Monolog package.
