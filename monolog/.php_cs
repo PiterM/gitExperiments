@@ -1,6 +1,7 @@
 <?php
 
 // Nowe zmiany DEV
+// kolejne zmiany na DEV
 
 $header = <<<EOF
 This file is part of the Monolog package.
