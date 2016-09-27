@@ -1,7 +1,6 @@
 <?php
 
-// EXP-1 nowe zmiany
-// i nowe zmiany #2
+// Teraz EXP-2
 
 $header = <<<EOF
 This file is part of the Monolog package.
